@@ -1,0 +1,27 @@
+{
+  "_id": "page.health-affected",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.health-affected--radios.auto_name__12",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.health-affected--radios.auto_name__12--radio.auto_value__18",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__18"
+        },
+        {
+          "_id": "page.health-affected--radios.auto_name__12--radio.auto_value__19",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__19"
+        }
+      ],
+      "legend": "Do you have proof that the state of your housing is affecting your health, for example, a letter from your GP?",
+      "name": "auto_name__12"
+    }
+  ],
+  "url": "health-affected"
+}

@@ -1,0 +1,51 @@
+{
+  "_id": "page.situation--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.situation--2--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.situation--2--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "I have nowhere to sleep or I might be homeless soon",
+          "value": "auto_value__1"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.situation--2--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "My health may be at risk",
+          "value": "auto_value__2"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.situation--2--radios.auto_name__1--radio.auto_value__4",
+          "_type": "radio",
+          "label": "I'm going to a housing court hearing",
+          "value": "auto_value__4"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.situation--2--radios.auto_name__1--radio.auto_value__5",
+          "_type": "radio",
+          "label": "None of these",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "Is your situation one of these?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "situation"
+}

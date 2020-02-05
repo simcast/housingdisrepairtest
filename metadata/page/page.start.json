@@ -1,0 +1,20 @@
+{
+  "_id": "page.start",
+  "_type": "page.start",
+  "body": "## Use this service to find out:\r\n\r\n* the steps you need to follow to solve your problem\r\n* where you can get help\r\n\r\nThis takes less than 5 minutes.\r\n\r\nThis service is for people who are renting or living in temporary accommodation.",
+  "heading": "Find out how to solve a housing disrepair issue",
+  "steps": [
+    "page.situation--2",
+    "page.cause-of-problem--3",
+    "page.has-landlord-been-told",
+    "page.accommodation-move-in",
+    "page.additional-circumstances",
+    "page.health-affected",
+    "page.rent-arrears",
+    "page.steps-already-taken",
+    "page.check-your-answers",
+    "page.result--2",
+    "page.result"
+  ],
+  "url": "/"
+}

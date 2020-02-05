@@ -1,0 +1,54 @@
+{
+  "_id": "page.result--2",
+  "_type": "page.content",
+  "body": "## Important information based on your answers",
+  "components": [
+    {
+      "_id": "page.result--2--content",
+      "_type": "content",
+      "html": "### You have rent arrears \r\n\r\nYour landlord can take steps to evict you. Paying the rent after repairs are completed won’t always protect you from eviction. \r\n"
+    },
+    {
+      "_id": "page.result--2--content--2",
+      "_type": "content",
+      "html": "### You moved in after March 2019 \r\n\r\nYour landlord must make sure your home is fit to live in. "
+    },
+    {
+      "_id": "page.result--2--content--3",
+      "_type": "content",
+      "html": "### You have proof of health or safety risks \r\n\r\nYou can report the problem to the council and their environmental health team may arrange an inspection. Environmental health can order your landlord to carry out repairs or improve conditions. "
+    },
+    {
+      "_id": "page.result--2--content--4",
+      "_type": "content",
+      "html": "## What you can do next\r\n\r\nBased on your answers, here are some actions you can take."
+    },
+    {
+      "_id": "page.result--2--content--5",
+      "_type": "content",
+      "html": "[Get the work carried out](#)"
+    },
+    {
+      "_id": "page.result--2--content--6",
+      "_type": "content",
+      "html": "[Find a temporary place to live](#)"
+    },
+    {
+      "_id": "page.result--2--content--7",
+      "_type": "content",
+      "html": "[End your tenancy agreement](#)"
+    },
+    {
+      "_id": "page.result--2--content--8",
+      "_type": "content",
+      "html": "[Claim compensation](#)"
+    },
+    {
+      "_id": "page.result--2--content--9",
+      "_type": "content",
+      "html": "[Go to court](#)"
+    }
+  ],
+  "heading": "Results",
+  "url": "important-info-and-options"
+}

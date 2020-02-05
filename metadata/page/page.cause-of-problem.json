@@ -1,0 +1,27 @@
+{
+  "_id": "page.cause-of-problem",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cause-of-problem--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.cause-of-problem--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.cause-of-problem--radios.auto_name__2--radio.auto_value__6",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__6"
+        }
+      ],
+      "legend": "Did you cause the problem yourself?",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "cause-of-problem-old"
+}

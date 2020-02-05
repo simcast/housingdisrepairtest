@@ -1,0 +1,39 @@
+{
+  "_id": "page.has-landlord-been-told",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.has-landlord-been-told--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.has-landlord-been-told--radios.auto_name__5--radio.auto_value__11",
+          "_type": "radio",
+          "label": "Yes, in a letter sent by recorded delivery",
+          "value": "auto_value__11"
+        },
+        {
+          "_id": "page.has-landlord-been-told--radios.auto_name__5--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Yes, in writing but without recorded delivery",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.has-landlord-been-told--radios.auto_name__5--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Yes, in person, over the phone, in an email or text",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.has-landlord-been-told--radios.auto_name__5--radio.auto_value__14",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__14"
+        }
+      ],
+      "legend": "Have you told your landlord about the problem?",
+      "name": "auto_name__5"
+    }
+  ],
+  "url": "has-landlord-been-told"
+}

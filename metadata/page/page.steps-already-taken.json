@@ -1,0 +1,60 @@
+{
+  "_id": "page.steps-already-taken",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.steps-already-taken--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select any that apply.",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.steps-already-taken--checkboxes--checkbox.auto_name__14",
+          "_type": "checkbox",
+          "label": "Taken photos of the problem",
+          "name": "auto_name__14"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.steps-already-taken--checkboxes--checkbox.auto_name__15",
+          "_type": "checkbox",
+          "label": "Collected evidence of conversations with your landlord",
+          "name": "auto_name__15"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.steps-already-taken--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "Withheld rent ",
+          "name": "auto_name__16"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.steps-already-taken--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "label": "Moved out of the property",
+          "name": "auto_name__17"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.steps-already-taken--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "label": "Contacted the council",
+          "name": "auto_name__18"
+        }
+      ],
+      "legend": "Have you already done any of these?"
+    }
+  ],
+  "url": "steps-already-taken"
+}

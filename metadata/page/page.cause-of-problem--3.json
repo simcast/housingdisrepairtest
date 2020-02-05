@@ -1,0 +1,34 @@
+{
+  "_id": "page.cause-of-problem--3",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.cause-of-problem--3--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.cause-of-problem--3--radios.auto_name__4--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.cause-of-problem--3--radios.auto_name__4--radio.auto_value__10",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__10"
+        }
+      ],
+      "legend": "Did you cause the problem yourself?",
+      "name": "auto_name__4"
+    },
+    {
+      "_id": "page.cause-of-problem--3--content",
+      "_type": "content",
+      "html": "[More about what you and your landlord are responsible for](#)"
+    }
+  ],
+  "heading": "Did you cause the problem yourself?",
+  "lede": "Legally, you’re responsible for keeping your home well ventilated, properly disposing of rubbish and checking that smoke alarms work. ",
+  "url": "cause-of-problem"
+}
